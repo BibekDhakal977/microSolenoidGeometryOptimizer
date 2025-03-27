@@ -3,7 +3,11 @@
 ## About
 Optimizes the geometry of a micro-solenoid to provide the maximum SNR for Magnetic resonance microscopy expeirments
 
-Installation:
+## Authors
+**Bibek Dhakal**
+*Vanderbilt University*
+
+## Installation:
 Step1: Download and unzip the micro-solenoid_geometry_optimization repository
 Step2: Store it in a folder
 Step3: Add the path of the folder to matlab path
