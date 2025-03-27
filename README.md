@@ -1,5 +1,6 @@
 # micro-solenoid_geometry_optimization
 
+## About
 Optimizes the geometry of a micro-solenoid to provide the maximum SNR for Magnetic resonance microscopy expeirments
 
 Installation:
