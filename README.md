@@ -5,8 +5,8 @@ Optimizes the geometry of a micro-solenoid to provide the maximum SNR for Magnet
 
 ## Authors
 **Bibek Dhakal**
-*PhD Candidate, Department of Physics, Vanderbilt University*
-*Trainee, Vanderbilt University Institute of Imaging Science*
+*PhD Candidate, Department of Physics, Vanderbilt University*  
+*Trainee, Vanderbilt University Institute of Imaging Science*  
 
 ## Installation:
 1. Download and unzip the micro-solenoid_geometry_optimization repository
