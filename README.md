@@ -9,8 +9,8 @@ The MATLAB class file **solenoidcoil.m** optimizes the geometry of a micro-solen
 *Trainee, Vanderbilt University Institute of Imaging Science (VUIIS)*  
 Email: bibek.dhakal@vanderbilt.edu
 
-**Benjamin Hardy**
-*Remcom Inc.*
+**Benjamin Hardy**  
+*Remcom Inc.*  
 *VUIIS alumni*
 
 ## Installation:
