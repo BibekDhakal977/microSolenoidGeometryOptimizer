@@ -6,8 +6,12 @@ The MATLAB class file **solenoidcoil.m** optimizes the geometry of a micro-solen
 ## Authors
 **Bibek Dhakal**  
 *PhD Candidate, Department of Physics, Vanderbilt University*  
-*Trainee, Vanderbilt University Institute of Imaging Science*  
+*Trainee, Vanderbilt University Institute of Imaging Science (VUIIS)*  
 Email: bibek.dhakal@vanderbilt.edu
+
+**Benjamin Hardy**
+*Remcom Inc.*
+*VUIIS alumni*
 
 ## Installation:
 1. Download and unzip the **micro-solenoid_geometry_optimization** repository
