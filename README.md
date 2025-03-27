@@ -11,7 +11,7 @@ Email: bibek.dhakal@vanderbilt.edu
 
 **Benjamin Hardy**  
 *Remcom Inc.*  
-*VUIIS alumni*
+*VUIIS alumnus*
 
 ## Installation:
 1. Download and unzip the **micro-solenoid_geometry_optimization** repository
