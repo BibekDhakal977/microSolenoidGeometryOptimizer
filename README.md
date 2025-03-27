@@ -4,7 +4,7 @@
 Optimizes the geometry of a micro-solenoid to provide the maximum SNR for Magnetic resonance microscopy expeirments
 
 ## Authors
-**Bibek Dhakal**
+**Bibek Dhakal**  
 *PhD Candidate, Department of Physics, Vanderbilt University*  
 *Trainee, Vanderbilt University Institute of Imaging Science*  
 
