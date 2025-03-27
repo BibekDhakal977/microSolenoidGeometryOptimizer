@@ -14,3 +14,6 @@ The class file solenoidcoil.m optimizes the geometry of a micro-solenoid to prov
 3. Add the path of the folder to matlab path
 4. open the 'main.m' file in the Matlab
 5. run and enjoy!
+
+## References: 
+Minard, K. R. & Wind, R. A. Solenoidal microcoil design. Part II: Optimizing winding parameters for maximum signal-to-noise performance. Concepts Magn. Reson. 13, 190–210 (2001).
