@@ -1,1 +1,1 @@
-# micro-solenoidgeometryoptimization
+# micro-solenoid_geometry_optimization
