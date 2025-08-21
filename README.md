@@ -1,4 +1,4 @@
-# micro-solenoid_geometry_optimization
+# microSolenoidGeometryOptimizer-v1.1
 
 ## About
 The MATLAB class file **solenoidcoil.m** optimizes the geometry of a micro-solenoid to provide the maximum SNR for Magnetic resonance microscopy expeirments. It takes various input of a micro-solenoid coil geometry such as: number of turns, coil diameter, wire diameter, conductivity of the wire,  and length of the lead wires.  The other inputs are the sample length, sample diameter, temperature of the coil, temperature of the sample, and operating frequency of the NMR spectrometer. The **main.m** utilizes the class file **solenoid.m** to simulate the SNR of micro-solenoids with different number of turns and wire diameter while keeping the rest of the geometry parameter constant.  
