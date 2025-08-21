@@ -21,5 +21,8 @@ Email: bibek.dhakal@vanderbilt.edu
 4. open the **coilOptimizer.m** file in the Matlab
 5. run and enjoy!
 
+## Citing this work:
+Bibek Dhakal, Benjamin Hardy, Adam Anderson et al. Technical developments for high resolution magnetic resonance microscopy in a horizontal bore magnet, 10 May 2025, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-6550180/v1]
+
 ## References: 
 [1] Minard, K. R. & Wind, R. A. Solenoidal microcoil design. Part II: Optimizing winding parameters for maximum signal-to-noise performance. Concepts Magn. Reson. 13, 190–210 (2001).
